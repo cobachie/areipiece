@@ -1,0 +1,2 @@
+model: Cms::BreadCrumb
+view_title: パンくずリスト
